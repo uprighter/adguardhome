@@ -1,0 +1,3 @@
+! Allow top Google search results even if they are sponsored.
+||doubleclick.com^
+||doubleclick.net^
